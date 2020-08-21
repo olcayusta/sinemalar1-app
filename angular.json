@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sinemalar1-app"
+    }
+  },
+  "defaultProject": "sinemalar1-app",
+  "cli": {
+    "analytics": "cb0ccc04-6e64-4fc6-b3f3-6411294277f8"
+  }
 }
